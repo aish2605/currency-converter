@@ -32,12 +32,12 @@
 .card{
   width:90%;
   max-width: 400px;
-  height: 600px;
+  height: 550px;
   background-color: rgba(247, 239, 239, 0.673);
   border-radius: 12px;
   display: flex;
   flex-direction: column;
-  row-gap: 40px;
+  row-gap: 25px;
   align-items: center;
   justify-content: center;
   flex-wrap: wrap;
